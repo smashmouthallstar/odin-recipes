@@ -11,4 +11,4 @@ Once finished, I'll have demonstrated skills in:
 
 -Git commits & professional commit message writing  
 
--Making a basic webpage!
+-Making a basic website!
