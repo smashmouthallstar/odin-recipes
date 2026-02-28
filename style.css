@@ -37,6 +37,7 @@ div.main h1 {
 	width: 200px;
 	height: auto;
 	margin: 0px auto 10px;
+	transform: rotate(290deg);
 }
 
 .construction {
